@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img alt="Preview" src="./.github/preview.png">
+  <img alt="Preview" src="https://github.com/rocketseat-education/nlw-06-nodejs/raw/master/.github/preview.png  ">
 </p>
 
 ## ✨ Tecnologias
